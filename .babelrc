@@ -1,0 +1,12 @@
+
+{
+  "presets": [
+    "es2015",
+    "babel-preset-power-assert"
+  ],
+  "plugins": [
+    "babel-plugin-transform-flow-strip-types",
+    "async-to-promises"
+  ],
+  "sourceMaps": "inline"
+}
